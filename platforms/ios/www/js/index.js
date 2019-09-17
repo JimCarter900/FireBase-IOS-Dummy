@@ -44,3 +44,16 @@ var app = {
 };
 
 app.initialize();
+
+// document.addEventListener("DOMContentLoaded", function(event) { 
+    function firebaseInit() {
+        try {
+            cordova.plugins.firebase.analytics.setEnabled(true);
+            cordova.plugins.firebase.analytics.setCurrentScreen("KTG Home");
+            cordova.plugins.firebase.analytics.logEvent("KTG content", { content_type: "browse page", item_id: "home" });
+        } catch (error) {
+            console.error(" Error in firebaseInit = " + error);
+        }
+    }
+    firebaseInit();
+// });

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>376355546807-91v3i9472ttpogppk4qc21vtr8lut1lh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.376355546807-91v3i9472ttpogppk4qc21vtr8lut1lh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAVQfYw_hbv4TxzwYdGS-Au0EnCryuD3OE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>376355546807</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.cordova.hellocordova</string>
+	<key>PROJECT_ID</key>
+	<string>sample-prod-3cafd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sample-prod-3cafd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:376355546807:ios:f588d686e6c1829ef40f32</string>
+	<key>DATABASE_URL</key>
+	<string>https://sample-prod-3cafd.firebaseio.com</string>
+</dict>
+</plist>
