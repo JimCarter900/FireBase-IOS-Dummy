@@ -7,20 +7,12 @@
     "is_top_level": true,
     "variables": {}
   },
-  "cordova-support-google-services": {
+  "cordova-support-android-plugin": {
     "source": {
       "type": "registry",
-      "id": "cordova-support-google-services"
+      "id": "cordova-support-android-plugin@~1.0.0"
     },
-    "is_top_level": true,
-    "variables": {}
-  },
-  "cordova-plugin-firebase-analytics": {
-    "source": {
-      "type": "registry",
-      "id": "cordova-plugin-firebase-analytics"
-    },
-    "is_top_level": true,
+    "is_top_level": false,
     "variables": {}
   }
 }
